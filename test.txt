@@ -1,1 +1,4 @@
 toto je prvy riadok
+
+pridany druhy riadok
+Kapitola 1
